@@ -323,7 +323,7 @@ This project is licensed under the [MIT License](LICENSE). Copyright (c) 2026 Ro
 
 ## Author
 
-Rohit Jain  
+Rohit Jain (B.Tech CSE)
 LinkedIn: https://www.linkedin.com/in/546-rohit-jain
 
 Debdatta Panda
